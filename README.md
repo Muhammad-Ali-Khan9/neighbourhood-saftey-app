@@ -1,4 +1,4 @@
-# 🛡️ Neighborhood Safety App – Backend (NestJS)
+# 🛡️ Neighborhood Safety App
 
 This is the backend service for the Neighborhood Safety App, built with **NestJS** and **PostgreSQL**. It offers secure APIs for incident reporting, user authentication, and real-time updates.
 
@@ -8,9 +8,10 @@ This is the backend service for the Neighborhood Safety App, built with **NestJS
 
 | Technology | Description | Logo |
 |------------|-------------|------|
-| [NestJS](https://nestjs.com) | Node.js framework for building scalable server-side applications | ![NestJS](https://nestjs.com/img/logo-small.svg) |
-| [PostgreSQL](https://www.postgresql.org/) | Powerful open-source relational database | ![PostgreSQL](https://www.postgresql.org/media/img/about/press/elephant.png) |
-| [Google Maps API](https://developers.google.com/maps) | Geolocation and mapping services | ![Google Maps](https://upload.wikimedia.org/wikipedia/commons/9/99/Google_Maps_Logo_2020.svg) |
+| [React Native](https://reactnative.dev/) | Cross-platform mobile framework | <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40"/> |
+| [NestJS](https://nestjs.com) | Node.js framework for building scalable server-side applications | <img src="https://nestjs.com/img/logo-small.svg" alt="NestJS" width="40"/> |
+| [PostgreSQL](https://www.postgresql.org/) | Open-source relational database | <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="PostgreSQL" width="40"/> |
+| [Google Maps API](https://developers.google.com/maps) | Location services and mapping | <img src="https://developers.google.com/maps/images/maps-icon.svg" alt="Google Maps" width="40"/> |
 
 ---
 
