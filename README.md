@@ -48,6 +48,8 @@ npm install
 ```
 
 ### 2. set up .env
+
+```bash
 PORT=3000
 DB_HOST=localhost
 DB_PORT=5432
@@ -55,6 +57,7 @@ DB_USERNAME=your_user
 DB_PASSWORD=your_password
 DB_NAME=neighborhood_safety
 JWT_SECRET=your_jwt_secret
+```
 
 ### 3. Start the Server
 ```bash
